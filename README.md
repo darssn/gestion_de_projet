@@ -1,6 +1,6 @@
 ## Groupe
 
 ### Darcy NGUYEN 
-### Victor Lebreton 
-### Achraf Abhilil 
-### Fathima-Zahra Zabaka 
+### Victor LEBRETON 
+### Achraf ABHILIL
+### Fathima-Zahra ZABAKA
