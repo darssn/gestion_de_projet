@@ -5,5 +5,6 @@
 ### Achraf ABHILIL -- DEV
 ### Fathima-Zahra ZABAKA -- Scrum Master
 
-## Gestion du projet [Lien vers Jira](https://darssnguyen.atlassian.net).
+## Gestion du projet 
+## [Lien vers Jira](https://darssnguyen.atlassian.net).
 
