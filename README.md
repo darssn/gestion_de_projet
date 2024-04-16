@@ -1,8 +1,7 @@
 ## Groupe
 
-### Darcy NGUYEN -- PO
-### Victor LEBRETON -- Testeur
-
+### Darcy NGUYEN -- Chef de projet
+### Victor LEBRETON -- Developpeur
 ### Fathima-Zahra ZABAKA -- Scrum Master
 
 ## Gestion du projet 
